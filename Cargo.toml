@@ -2,8 +2,8 @@
 name = "person_registration"
 version = "0.1.0"
 edition = "2021"
-descrition = "Person registration for Brazil documents"
-licence = "MIT"
+description = "Person registration for Brazil documents"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
